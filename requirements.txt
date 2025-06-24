@@ -1,8 +1,3 @@
-# yt-dlp==2023.12.30
-# opencv-python==4.8.1.78
-# google-generativeai>=0.7.0
-# numpy==1.26.1
-
 opencv-python==4.8.1.78
 openai==1.12.0
 httpx==0.26.0
@@ -10,3 +5,9 @@ yt-dlp==2023.12.30
 numpy==1.26.1
 ipython>=8.18.1
 python-dotenv>=1.0.0
+pytubefix
+dotenv
+
+# ytlink = https://www.youtube.com/watch?v=LPDnemFoqVk
+# ytlink = https://youtu.be/ELwNvUnm0LA?si=9h3x5twr80ycmQgf
+# ytlink = https://youtu.be/VvuQ-hynlEg?si=SipV6YXyj_9jC3o6
