@@ -1,1 +1,5 @@
 # Basketball-Video-Analysis-Scouting-Report
+
+
+OPENAI_API_KEY=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 
+# from client
