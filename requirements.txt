@@ -7,7 +7,3 @@ ipython>=8.18.1
 python-dotenv>=1.0.0
 pytubefix
 dotenv
-
-# ytlink = https://www.youtube.com/watch?v=LPDnemFoqVk
-# ytlink = https://youtu.be/ELwNvUnm0LA?si=9h3x5twr80ycmQgf
-# ytlink = https://youtu.be/VvuQ-hynlEg?si=SipV6YXyj_9jC3o6
