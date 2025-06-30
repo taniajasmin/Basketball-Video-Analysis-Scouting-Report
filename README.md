@@ -152,6 +152,6 @@ Test with these basketball gameplay videos:
 > - Camera should follow main action
 > - Avoid overexposed/backlit footage
 
-### 📥 Video Download Options
+### Video Download Options
 1. Use from device
 2. Download using [Python video downloader]([https://youtu.be/VvuQ-hynlEg](https://github.com/taniajasmin/Video-Downloader-Web-App/blob/main/downloader_v2.py)
