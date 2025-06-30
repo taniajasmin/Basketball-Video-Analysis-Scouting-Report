@@ -138,7 +138,7 @@ Common Issues:
 |-------|----------|
 | **`OPENAI_API_KEY not found`** | 1. Create `.env` file in project root<br>2. Add `OPENAI_API_KEY=your_key_here`<br>3. Ensure no trailing spaces |
 | **`Video not found`** | • Local files: Use absolute paths (`/videos/game.mp4`)<br>• YouTube: Verify URL is public |
-| **`No frames extracted`** | • Use 720p+ videos with clear gameplay<br>• Avoid distant/wide-angle shots<br>• Test with [sample videos](#sample-test-videos) below |
+| **`No frames extracted`** | • Use 720p+ videos with clear gameplay<br>• Avoid distant/wide-angle shots|
 | **Rate limit errors** | • Wait 60s between runs<br>• Reduce video length<br>• Upgrade OpenAI plan if needed |
 
 ### Sample Test Videos
